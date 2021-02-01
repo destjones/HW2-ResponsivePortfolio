@@ -1,0 +1,23 @@
+
+.html{
+    background: #DEB887;
+}
+.body{
+    text-align: center;
+    background-color: #DEB887;
+
+}
+.container{
+    font-size: 20px;
+    font-family: 'Barlow', sans-serif;
+    background: #DEB887;
+}
+.col-sm{
+    text-align: center;
+
+}
+.links{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Barlow', sans-serif;
+}
